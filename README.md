@@ -188,4 +188,3 @@ weather-analytics-platform/
 ## Author
 
 **Srijan Baranwal**
-[LinkedIn](#) • [GitHub](#)
