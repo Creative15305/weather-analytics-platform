@@ -133,12 +133,14 @@ weather-analytics-platform/
 **Power BI Dashboard — India Live Weather Overview**
 Live map of 500+ cities, KPI cards (total cities, total records), Top 10 hottest/coldest cities, average temperature trend, and weather condition distribution.
 
-![Power BI Dashboard](assets/powerbi_dashboard.png)
+<img width="1338" height="752" alt="Screenshot 2026-08-01 011832" src="https://github.com/user-attachments/assets/82e39047-4f40-4264-b666-d42282acc889" />
+
 
 **Streamlit Dashboard — Top 10 Hottest / Coldest Cities**
 Interactive view with location and weather-condition filters, showing live temperature rankings across India.
 
-![Streamlit Top 10 Cities](assets/streamlit_top10.png)
+<img width="1910" height="813" alt="Screenshot 2026-08-01 012144" src="https://github.com/user-attachments/assets/59e7845d-a6b3-4306-8788-f3f5fc83d56f" />
+
 
 ---
 
@@ -191,4 +193,4 @@ Interactive view with location and weather-condition filters, showing live tempe
 ## Author
 
 **Srijan Baranwal**
-[LinkedIn](#) • [GitHub](#)
+
